@@ -1,9 +1,6 @@
 package com.mycompany.quiz;
 import java.util.Scanner;
-/**
- *
- * @author s445005903
- */
+
 public class Quiz {
     public static void main(String[] args) {
         // Speed = Distance / Time.
